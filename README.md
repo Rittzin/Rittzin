@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Rittzin
+- 👀 I’m interested in progaming games
+- 🌱 I’m currently learning some progamation languages, such as JAVA Script and others! (God, please, save me from the JAVA Script . . .)
+- 💞️ I’m looking to collaborate on some little projects from my own with my friends!
+- 📫 How to reach me: You can easily reach me by my discord or twitter (X) that is displayed onto my profile!
+- 😄 Pronouns: I am a He/Him!
+- ⚡ Fun fact: I am also a artist! So, my life isn't only about this in general.
