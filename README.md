@@ -10,4 +10,4 @@ Eu sou Vinicius Ferreira.
 
 00001115696191SP@al.educacao.sp.gov.br
 
-![](https://tenor.com/pt-BR/view/thumbs-up-shirou-emiya-fate-okay-ok-gif-16887753)
+[![](https://media1.tenor.com/m/L2tRthtOrQYAAAAC/thumbs-up-shirou-emiya.gif)
