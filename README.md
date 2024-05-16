@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @Rittzin
-- 👀 I’m interested in progaming games
-- 🌱 I’m currently learning some progamation languages, such as JAVA Script and others! (God, please, save me from the JAVA Script . . .)
-- 💞️ I’m looking to collaborate on some little projects from my own with my friends!
-- 📫 How to reach me: You can easily reach me by my discord or twitter (X) that is displayed onto my profile!
-- 😄 Pronouns: I am a He/Him!
-- ⚡ Fun fact: I am also a artist! So, my life isn't only about this in general.
+## Welcome, World.
+
+Eu sou Vinicius Ferreira.
+
+- Atualmente cursando (https://www.alura.com.br/)
+- Forçado a aprender Java Script, embora eu prefira qualquer outro metódo como por exemplo Python.
+- Vou compartilhar projetos e trabalhos futuros por aqui.
+
+## Contato 📭
+
+00001115696191SP@al.educacao.sp.gov.br
+
+![](https://tenor.com/pt-BR/view/thumbs-up-shirou-emiya-fate-okay-ok-gif-16887753)
